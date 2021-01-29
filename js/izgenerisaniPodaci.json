@@ -1,0 +1,1806 @@
+directoryData = [
+	{
+		"ID:": 1,
+		"Ime:": "Colby",
+		"Prezime:": "Francis",
+		"Broj telefona:": "1-234-408-5230",
+		"Adresa stanovanja:": "5865 Morbi Rd.",
+		"Email adresa: ": "et.rutrum.non@scelerisque.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 2,
+		"Ime:": "Leo",
+		"Prezime:": "Barnes",
+		"Broj telefona:": "955-3820",
+		"Adresa stanovanja:": "811-7528 Ut Avenue",
+		"Email adresa: ": "inceptos@arcuVestibulumante.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 3,
+		"Ime:": "Chelsea",
+		"Prezime:": "Rich",
+		"Broj telefona:": "538-8285",
+		"Adresa stanovanja:": "442-3510 Est Rd.",
+		"Email adresa: ": "eu.placerat.eget@nectempus.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 4,
+		"Ime:": "Lamar",
+		"Prezime:": "Galloway",
+		"Broj telefona:": "1-209-213-0691",
+		"Adresa stanovanja:": "3995 Luctus Road",
+		"Email adresa: ": "ornare.facilisis@amet.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 5,
+		"Ime:": "Riley",
+		"Prezime:": "Gates",
+		"Broj telefona:": "1-647-599-4674",
+		"Adresa stanovanja:": "981-6523 Per St.",
+		"Email adresa: ": "a.neque.Nullam@Nullamscelerisqueneque.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 6,
+		"Ime:": "Hanae",
+		"Prezime:": "Pearson",
+		"Broj telefona:": "476-6982",
+		"Adresa stanovanja:": "P.O. Box 277, 1780 Lectus, Ave",
+		"Email adresa: ": "In.lorem@adipiscingelit.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 7,
+		"Ime:": "Axel",
+		"Prezime:": "Patrick",
+		"Broj telefona:": "991-0070",
+		"Adresa stanovanja:": "6845 Mauris Road",
+		"Email adresa: ": "ultrices.mauris@vel.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 8,
+		"Ime:": "Thomas",
+		"Prezime:": "Baldwin",
+		"Broj telefona:": "1-259-812-2790",
+		"Adresa stanovanja:": "Ap #698-1124 Augue Rd.",
+		"Email adresa: ": "tempor.lorem@seddictumeleifend.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 9,
+		"Ime:": "Akeem",
+		"Prezime:": "Whitney",
+		"Broj telefona:": "858-2220",
+		"Adresa stanovanja:": "P.O. Box 372, 990 Mauris St.",
+		"Email adresa: ": "mollis@turpisnecmauris.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 10,
+		"Ime:": "Francesca",
+		"Prezime:": "Pickett",
+		"Broj telefona:": "386-1732",
+		"Adresa stanovanja:": "Ap #871-6381 Pretium St.",
+		"Email adresa: ": "a.felis.ullamcorper@augueid.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 11,
+		"Ime:": "Keegan",
+		"Prezime:": "Mcintosh",
+		"Broj telefona:": "1-770-315-6865",
+		"Adresa stanovanja:": "583-4283 Dui St.",
+		"Email adresa: ": "quam.a@augueSedmolestie.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 12,
+		"Ime:": "Minerva",
+		"Prezime:": "Rutledge",
+		"Broj telefona:": "593-6259",
+		"Adresa stanovanja:": "Ap #489-1229 Nibh St.",
+		"Email adresa: ": "Aenean.egestas.hendrerit@Quisqueliberolacus.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 13,
+		"Ime:": "Glenna",
+		"Prezime:": "Mcpherson",
+		"Broj telefona:": "1-270-472-3349",
+		"Adresa stanovanja:": "Ap #575-7121 Vitae St.",
+		"Email adresa: ": "nunc@semconsequat.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 14,
+		"Ime:": "Josiah",
+		"Prezime:": "Beck",
+		"Broj telefona:": "931-9159",
+		"Adresa stanovanja:": "8523 Vehicula. Ave",
+		"Email adresa: ": "iaculis.nec@nonummyipsumnon.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 15,
+		"Ime:": "Illana",
+		"Prezime:": "Wallace",
+		"Broj telefona:": "671-9745",
+		"Adresa stanovanja:": "3052 Vivamus Ave",
+		"Email adresa: ": "sollicitudin.a@ullamcorpereu.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 16,
+		"Ime:": "Herman",
+		"Prezime:": "Atkins",
+		"Broj telefona:": "1-748-953-1959",
+		"Adresa stanovanja:": "939-4875 Risus. Road",
+		"Email adresa: ": "nostra.per.inceptos@Craslorem.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 17,
+		"Ime:": "Julie",
+		"Prezime:": "Hart",
+		"Broj telefona:": "582-0071",
+		"Adresa stanovanja:": "Ap #121-9971 Dolor Road",
+		"Email adresa: ": "rhoncus.Donec.est@Duisat.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 18,
+		"Ime:": "Scarlet",
+		"Prezime:": "Wilcox",
+		"Broj telefona:": "1-170-411-6277",
+		"Adresa stanovanja:": "1629 Arcu. St.",
+		"Email adresa: ": "ultricies.ligula.Nullam@nisi.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 19,
+		"Ime:": "Acton",
+		"Prezime:": "Graves",
+		"Broj telefona:": "1-780-239-3386",
+		"Adresa stanovanja:": "P.O. Box 804, 4769 Donec Street",
+		"Email adresa: ": "consequat.purus@nisi.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 20,
+		"Ime:": "Anthony",
+		"Prezime:": "Mcdonald",
+		"Broj telefona:": "1-185-386-6774",
+		"Adresa stanovanja:": "Ap #116-3412 Imperdiet Avenue",
+		"Email adresa: ": "posuere@eros.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 21,
+		"Ime:": "Lara",
+		"Prezime:": "Ross",
+		"Broj telefona:": "564-1226",
+		"Adresa stanovanja:": "Ap #852-1080 Dictum Road",
+		"Email adresa: ": "sem@Utnec.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 22,
+		"Ime:": "Len",
+		"Prezime:": "Bauer",
+		"Broj telefona:": "1-430-810-9652",
+		"Adresa stanovanja:": "6780 Euismod St.",
+		"Email adresa: ": "urna.Ut@vehiculaetrutrum.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 23,
+		"Ime:": "Tanya",
+		"Prezime:": "Whitley",
+		"Broj telefona:": "327-7186",
+		"Adresa stanovanja:": "Ap #982-4639 Est, Ave",
+		"Email adresa: ": "In@hendrerit.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 24,
+		"Ime:": "Brent",
+		"Prezime:": "Brooks",
+		"Broj telefona:": "346-5967",
+		"Adresa stanovanja:": "4396 Curabitur Av.",
+		"Email adresa: ": "a@orciPhasellus.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 25,
+		"Ime:": "Hall",
+		"Prezime:": "Cooley",
+		"Broj telefona:": "1-402-380-6062",
+		"Adresa stanovanja:": "P.O. Box 210, 729 Turpis. St.",
+		"Email adresa: ": "sem.molestie.sodales@nasceturridiculus.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 26,
+		"Ime:": "Tanisha",
+		"Prezime:": "Langley",
+		"Broj telefona:": "323-0064",
+		"Adresa stanovanja:": "Ap #618-7186 Facilisis Av.",
+		"Email adresa: ": "convallis.erat@netuset.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 27,
+		"Ime:": "Sean",
+		"Prezime:": "Delgado",
+		"Broj telefona:": "1-761-116-9941",
+		"Adresa stanovanja:": "481 Pede. Rd.",
+		"Email adresa: ": "ipsum.Phasellus@maurissagittisplacerat.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 28,
+		"Ime:": "Joshua",
+		"Prezime:": "Brooks",
+		"Broj telefona:": "1-675-452-9723",
+		"Adresa stanovanja:": "5016 Quis Rd.",
+		"Email adresa: ": "netus.et.malesuada@InfaucibusMorbi.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 29,
+		"Ime:": "Hunter",
+		"Prezime:": "Robles",
+		"Broj telefona:": "618-5139",
+		"Adresa stanovanja:": "7591 Sodales Rd.",
+		"Email adresa: ": "adipiscing.non@ipsumDonecsollicitudin.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 30,
+		"Ime:": "Xaviera",
+		"Prezime:": "Noble",
+		"Broj telefona:": "282-3420",
+		"Adresa stanovanja:": "P.O. Box 611, 2888 Amet Street",
+		"Email adresa: ": "diam@neque.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 31,
+		"Ime:": "Rooney",
+		"Prezime:": "Heath",
+		"Broj telefona:": "147-3122",
+		"Adresa stanovanja:": "973-6787 Enim, Ave",
+		"Email adresa: ": "sed@Nunclectuspede.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 32,
+		"Ime:": "Roanna",
+		"Prezime:": "Mathis",
+		"Broj telefona:": "1-622-865-8121",
+		"Adresa stanovanja:": "1332 Facilisis Avenue",
+		"Email adresa: ": "nec.leo.Morbi@eunibhvulputate.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 33,
+		"Ime:": "Colorado",
+		"Prezime:": "Moss",
+		"Broj telefona:": "1-837-886-9922",
+		"Adresa stanovanja:": "822 Natoque Ave",
+		"Email adresa: ": "Class.aptent.taciti@Phasellusfermentumconvallis.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 34,
+		"Ime:": "Branden",
+		"Prezime:": "Lloyd",
+		"Broj telefona:": "364-2544",
+		"Adresa stanovanja:": "Ap #792-1462 Et Road",
+		"Email adresa: ": "magna.nec.quam@sitamet.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 35,
+		"Ime:": "Russell",
+		"Prezime:": "Jacobs",
+		"Broj telefona:": "721-1728",
+		"Adresa stanovanja:": "824-9547 Nam St.",
+		"Email adresa: ": "odio.Nam@lobortis.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 36,
+		"Ime:": "Claire",
+		"Prezime:": "Tanner",
+		"Broj telefona:": "820-7663",
+		"Adresa stanovanja:": "429-8298 Eu Rd.",
+		"Email adresa: ": "ac.fermentum.vel@ullamcorpervelitin.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 37,
+		"Ime:": "Justina",
+		"Prezime:": "Snyder",
+		"Broj telefona:": "1-356-870-9300",
+		"Adresa stanovanja:": "920-1546 Lacinia Av.",
+		"Email adresa: ": "Duis.gravida.Praesent@utpellentesque.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 38,
+		"Ime:": "Trevor",
+		"Prezime:": "Juarez",
+		"Broj telefona:": "332-8181",
+		"Adresa stanovanja:": "329-8077 In Av.",
+		"Email adresa: ": "felis.adipiscing.fringilla@Vestibulumut.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 39,
+		"Ime:": "Cameron",
+		"Prezime:": "Joyner",
+		"Broj telefona:": "1-918-170-3918",
+		"Adresa stanovanja:": "P.O. Box 423, 6830 Proin St.",
+		"Email adresa: ": "mauris.erat@necleo.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 40,
+		"Ime:": "Clementine",
+		"Prezime:": "Solis",
+		"Broj telefona:": "428-2968",
+		"Adresa stanovanja:": "3889 Arcu. Road",
+		"Email adresa: ": "nisi.Cum.sociis@vitae.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 41,
+		"Ime:": "Marshall",
+		"Prezime:": "Sherman",
+		"Broj telefona:": "395-8186",
+		"Adresa stanovanja:": "2372 Sed, Ave",
+		"Email adresa: ": "consequat@placerataugue.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 42,
+		"Ime:": "Ralph",
+		"Prezime:": "Buchanan",
+		"Broj telefona:": "443-0714",
+		"Adresa stanovanja:": "4265 Lacus Av.",
+		"Email adresa: ": "nisi.magna.sed@Vivamus.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 43,
+		"Ime:": "Zachary",
+		"Prezime:": "Logan",
+		"Broj telefona:": "1-590-153-2397",
+		"Adresa stanovanja:": "Ap #916-623 Quisque Road",
+		"Email adresa: ": "fringilla.mi.lacinia@nullamagnamalesuada.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 44,
+		"Ime:": "Brock",
+		"Prezime:": "Chase",
+		"Broj telefona:": "485-1627",
+		"Adresa stanovanja:": "Ap #630-9020 Lectus Street",
+		"Email adresa: ": "sit.amet@taciti.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 45,
+		"Ime:": "Clementine",
+		"Prezime:": "Barrera",
+		"Broj telefona:": "248-5740",
+		"Adresa stanovanja:": "P.O. Box 271, 8088 Ut Road",
+		"Email adresa: ": "Nulla.semper@risusMorbi.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 46,
+		"Ime:": "Kerry",
+		"Prezime:": "Weaver",
+		"Broj telefona:": "625-7153",
+		"Adresa stanovanja:": "Ap #843-9659 Consequat Avenue",
+		"Email adresa: ": "diam.Proin.dolor@Quisquepurussapien.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 47,
+		"Ime:": "Wilma",
+		"Prezime:": "Cross",
+		"Broj telefona:": "888-0519",
+		"Adresa stanovanja:": "P.O. Box 125, 3969 Vehicula St.",
+		"Email adresa: ": "mus.Proin.vel@faucibus.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 48,
+		"Ime:": "Bell",
+		"Prezime:": "Cantrell",
+		"Broj telefona:": "232-2869",
+		"Adresa stanovanja:": "Ap #896-5222 Ante Av.",
+		"Email adresa: ": "nulla.ante@lectusNullamsuscipit.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 49,
+		"Ime:": "Caldwell",
+		"Prezime:": "Chambers",
+		"Broj telefona:": "152-9192",
+		"Adresa stanovanja:": "535-9915 Sodales Rd.",
+		"Email adresa: ": "nunc@Cras.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 50,
+		"Ime:": "Nina",
+		"Prezime:": "Vance",
+		"Broj telefona:": "999-1607",
+		"Adresa stanovanja:": "629-8131 Eleifend Street",
+		"Email adresa: ": "commodo.at@acrisus.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 51,
+		"Ime:": "Lareina",
+		"Prezime:": "Mclaughlin",
+		"Broj telefona:": "1-181-548-2495",
+		"Adresa stanovanja:": "Ap #320-2617 Pellentesque, Avenue",
+		"Email adresa: ": "accumsan.convallis.ante@habitantmorbitristique.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 52,
+		"Ime:": "Leah",
+		"Prezime:": "Hardin",
+		"Broj telefona:": "1-335-482-6038",
+		"Adresa stanovanja:": "826-1458 Non Rd.",
+		"Email adresa: ": "Nulla@hendreritneque.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 53,
+		"Ime:": "Victor",
+		"Prezime:": "Sosa",
+		"Broj telefona:": "1-777-504-7935",
+		"Adresa stanovanja:": "P.O. Box 391, 691 Sed Rd.",
+		"Email adresa: ": "lacinia.mattis.Integer@libero.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 54,
+		"Ime:": "Neville",
+		"Prezime:": "Frye",
+		"Broj telefona:": "803-3106",
+		"Adresa stanovanja:": "994 Senectus Avenue",
+		"Email adresa: ": "Curabitur.massa.Vestibulum@iaculis.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 55,
+		"Ime:": "Jonah",
+		"Prezime:": "Neal",
+		"Broj telefona:": "1-298-476-8362",
+		"Adresa stanovanja:": "Ap #976-3822 Curae; Road",
+		"Email adresa: ": "Maecenas.ornare@orciUt.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 56,
+		"Ime:": "Claudia",
+		"Prezime:": "Downs",
+		"Broj telefona:": "942-7266",
+		"Adresa stanovanja:": "3224 In, St.",
+		"Email adresa: ": "non@duiquis.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 57,
+		"Ime:": "Ann",
+		"Prezime:": "Mosley",
+		"Broj telefona:": "1-522-131-3143",
+		"Adresa stanovanja:": "260-9866 Magnis Av.",
+		"Email adresa: ": "et@NullainterdumCurabitur.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 58,
+		"Ime:": "Guy",
+		"Prezime:": "Grant",
+		"Broj telefona:": "711-1056",
+		"Adresa stanovanja:": "186-8474 Congue Street",
+		"Email adresa: ": "neque.non.quam@cursusluctus.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 59,
+		"Ime:": "Gillian",
+		"Prezime:": "Best",
+		"Broj telefona:": "854-9281",
+		"Adresa stanovanja:": "8943 Mi Street",
+		"Email adresa: ": "quis.arcu.vel@dui.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 60,
+		"Ime:": "Fleur",
+		"Prezime:": "Murphy",
+		"Broj telefona:": "1-959-118-2095",
+		"Adresa stanovanja:": "P.O. Box 259, 9020 Egestas. St.",
+		"Email adresa: ": "a.felis@SuspendissesagittisNullam.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 61,
+		"Ime:": "Christen",
+		"Prezime:": "Whitney",
+		"Broj telefona:": "268-7127",
+		"Adresa stanovanja:": "Ap #105-7241 Metus St.",
+		"Email adresa: ": "vel.nisl@adipiscingelit.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 62,
+		"Ime:": "Alden",
+		"Prezime:": "Ortiz",
+		"Broj telefona:": "1-764-708-0077",
+		"Adresa stanovanja:": "150-257 Ut, Rd.",
+		"Email adresa: ": "Sed.neque@necleo.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 63,
+		"Ime:": "Ivana",
+		"Prezime:": "Shaw",
+		"Broj telefona:": "1-511-755-2544",
+		"Adresa stanovanja:": "Ap #726-4112 Curabitur St.",
+		"Email adresa: ": "tellus.Nunc@Integersem.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 64,
+		"Ime:": "Olivia",
+		"Prezime:": "Jacobson",
+		"Broj telefona:": "561-3791",
+		"Adresa stanovanja:": "809-9522 Hendrerit Avenue",
+		"Email adresa: ": "leo.Cras@ametdiam.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 65,
+		"Ime:": "Cara",
+		"Prezime:": "Wolfe",
+		"Broj telefona:": "682-1195",
+		"Adresa stanovanja:": "5083 Consectetuer St.",
+		"Email adresa: ": "Sed.eu.nibh@massa.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 66,
+		"Ime:": "William",
+		"Prezime:": "Salinas",
+		"Broj telefona:": "631-0325",
+		"Adresa stanovanja:": "1638 Convallis Rd.",
+		"Email adresa: ": "rhoncus@Inscelerisque.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 67,
+		"Ime:": "Jeremy",
+		"Prezime:": "Gibbs",
+		"Broj telefona:": "1-714-266-6834",
+		"Adresa stanovanja:": "9688 Per Rd.",
+		"Email adresa: ": "libero.Morbi.accumsan@inconsectetuer.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 68,
+		"Ime:": "Tarik",
+		"Prezime:": "Conner",
+		"Broj telefona:": "1-504-309-4741",
+		"Adresa stanovanja:": "956-4896 Felis, Rd.",
+		"Email adresa: ": "tempus.risus.Donec@congueturpis.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 69,
+		"Ime:": "Skyler",
+		"Prezime:": "Cline",
+		"Broj telefona:": "1-632-696-9702",
+		"Adresa stanovanja:": "Ap #870-6338 Enim Street",
+		"Email adresa: ": "Cras.interdum.Nunc@Aliquamtincidunt.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 70,
+		"Ime:": "Nina",
+		"Prezime:": "Kelley",
+		"Broj telefona:": "397-6127",
+		"Adresa stanovanja:": "816 Sed St.",
+		"Email adresa: ": "ullamcorper.Duis@hendreritneque.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 71,
+		"Ime:": "Jameson",
+		"Prezime:": "Estes",
+		"Broj telefona:": "1-869-963-1602",
+		"Adresa stanovanja:": "Ap #466-4776 Congue. Avenue",
+		"Email adresa: ": "mattis.velit.justo@auctorvelit.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 72,
+		"Ime:": "Connor",
+		"Prezime:": "Mcpherson",
+		"Broj telefona:": "1-987-573-0325",
+		"Adresa stanovanja:": "Ap #951-9826 Eu Rd.",
+		"Email adresa: ": "Aliquam.vulputate.ullamcorper@risus.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 73,
+		"Ime:": "Edan",
+		"Prezime:": "Cooley",
+		"Broj telefona:": "1-707-682-6455",
+		"Adresa stanovanja:": "Ap #864-3985 Bibendum Street",
+		"Email adresa: ": "sapien.cursus@urna.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 74,
+		"Ime:": "Herrod",
+		"Prezime:": "Mcmahon",
+		"Broj telefona:": "1-685-656-7691",
+		"Adresa stanovanja:": "P.O. Box 777, 3749 Vitae St.",
+		"Email adresa: ": "malesuada@Etiam.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 75,
+		"Ime:": "Zoe",
+		"Prezime:": "Warner",
+		"Broj telefona:": "1-776-626-1951",
+		"Adresa stanovanja:": "Ap #250-2388 Mauris Street",
+		"Email adresa: ": "lacus@aliquamerosturpis.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 76,
+		"Ime:": "Clarke",
+		"Prezime:": "Cote",
+		"Broj telefona:": "1-436-996-2004",
+		"Adresa stanovanja:": "Ap #534-1086 Non Rd.",
+		"Email adresa: ": "et.nunc.Quisque@penatibuset.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 77,
+		"Ime:": "Carolyn",
+		"Prezime:": "Blake",
+		"Broj telefona:": "1-434-539-7407",
+		"Adresa stanovanja:": "187-8967 Nunc Avenue",
+		"Email adresa: ": "ridiculus@eratSednunc.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 78,
+		"Ime:": "Quail",
+		"Prezime:": "Ortiz",
+		"Broj telefona:": "1-945-343-9450",
+		"Adresa stanovanja:": "3634 Eu Rd.",
+		"Email adresa: ": "egestas.a.dui@ametanteVivamus.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 79,
+		"Ime:": "Shaine",
+		"Prezime:": "Lindsey",
+		"Broj telefona:": "298-3279",
+		"Adresa stanovanja:": "387-3666 Integer Rd.",
+		"Email adresa: ": "tortor.Nunc@enimSuspendisse.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 80,
+		"Ime:": "Ruby",
+		"Prezime:": "Reese",
+		"Broj telefona:": "345-6896",
+		"Adresa stanovanja:": "P.O. Box 911, 6683 Dolor St.",
+		"Email adresa: ": "dapibus.gravida@aliquamenim.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 81,
+		"Ime:": "Kylee",
+		"Prezime:": "Carver",
+		"Broj telefona:": "1-431-337-4350",
+		"Adresa stanovanja:": "134-2098 Tellus Avenue",
+		"Email adresa: ": "quis.urna@Vivamus.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 82,
+		"Ime:": "Amela",
+		"Prezime:": "Farrell",
+		"Broj telefona:": "1-713-926-0462",
+		"Adresa stanovanja:": "759-5790 Porttitor Rd.",
+		"Email adresa: ": "faucibus.Morbi@acipsumPhasellus.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 83,
+		"Ime:": "Mohammad",
+		"Prezime:": "Franks",
+		"Broj telefona:": "840-7461",
+		"Adresa stanovanja:": "868-2647 Vel Street",
+		"Email adresa: ": "ac.tellus@Aliquam.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 84,
+		"Ime:": "Wynne",
+		"Prezime:": "Ramirez",
+		"Broj telefona:": "1-734-704-2356",
+		"Adresa stanovanja:": "196 Vel Road",
+		"Email adresa: ": "pretium@feugiatnonlobortis.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 85,
+		"Ime:": "Brandon",
+		"Prezime:": "Matthews",
+		"Broj telefona:": "204-3537",
+		"Adresa stanovanja:": "221-6588 Augue St.",
+		"Email adresa: ": "eu.enim@Duis.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 86,
+		"Ime:": "Nicholas",
+		"Prezime:": "Williams",
+		"Broj telefona:": "1-739-976-5750",
+		"Adresa stanovanja:": "P.O. Box 198, 1366 Nonummy Road",
+		"Email adresa: ": "ante.dictum.mi@malesuadafamesac.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 87,
+		"Ime:": "Herrod",
+		"Prezime:": "Cabrera",
+		"Broj telefona:": "144-4177",
+		"Adresa stanovanja:": "244-3319 Eu Ave",
+		"Email adresa: ": "eget@dolornonummyac.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 88,
+		"Ime:": "Arthur",
+		"Prezime:": "Vega",
+		"Broj telefona:": "375-8073",
+		"Adresa stanovanja:": "257-5207 Mauris Rd.",
+		"Email adresa: ": "ullamcorper@tortorNunc.ca",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 89,
+		"Ime:": "Jelani",
+		"Prezime:": "Strong",
+		"Broj telefona:": "442-9888",
+		"Adresa stanovanja:": "2470 Gravida Avenue",
+		"Email adresa: ": "at@dolorsit.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 90,
+		"Ime:": "Len",
+		"Prezime:": "Craft",
+		"Broj telefona:": "1-527-750-4645",
+		"Adresa stanovanja:": "Ap #530-4959 Et Rd.",
+		"Email adresa: ": "Curae.Donec.tincidunt@convallis.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 91,
+		"Ime:": "Joy",
+		"Prezime:": "Oneil",
+		"Broj telefona:": "879-0056",
+		"Adresa stanovanja:": "1124 Nam Road",
+		"Email adresa: ": "semper.et.lacinia@molestie.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 92,
+		"Ime:": "Orlando",
+		"Prezime:": "Chambers",
+		"Broj telefona:": "666-6476",
+		"Adresa stanovanja:": "Ap #179-2573 Vitae Avenue",
+		"Email adresa: ": "nec.tempus@acmi.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 93,
+		"Ime:": "Howard",
+		"Prezime:": "Burt",
+		"Broj telefona:": "936-1869",
+		"Adresa stanovanja:": "569-3845 In Street",
+		"Email adresa: ": "eu.euismod@luctusetultrices.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 94,
+		"Ime:": "Bell",
+		"Prezime:": "Lawrence",
+		"Broj telefona:": "911-9208",
+		"Adresa stanovanja:": "323-170 Orci Rd.",
+		"Email adresa: ": "tempor@vel.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 95,
+		"Ime:": "Daria",
+		"Prezime:": "Harrison",
+		"Broj telefona:": "722-1844",
+		"Adresa stanovanja:": "P.O. Box 686, 9378 Mollis Rd.",
+		"Email adresa: ": "risus.odio@metusVivamuseuismod.org",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 96,
+		"Ime:": "Camilla",
+		"Prezime:": "Sparks",
+		"Broj telefona:": "378-3270",
+		"Adresa stanovanja:": "4405 Adipiscing Av.",
+		"Email adresa: ": "Morbi@Praesentinterdum.net",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 97,
+		"Ime:": "Kaseem",
+		"Prezime:": "Alford",
+		"Broj telefona:": "1-550-933-7471",
+		"Adresa stanovanja:": "P.O. Box 377, 7704 Ipsum Rd.",
+		"Email adresa: ": "luctus.aliquet.odio@ornare.co.uk",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 98,
+		"Ime:": "Ivor",
+		"Prezime:": "Dalton",
+		"Broj telefona:": "1-821-198-8687",
+		"Adresa stanovanja:": "895-8086 Maecenas St.",
+		"Email adresa: ": "convallis.ante@morbitristique.edu",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 99,
+		"Ime:": "Valentine",
+		"Prezime:": "Lowery",
+		"Broj telefona:": "1-918-296-0632",
+		"Adresa stanovanja:": "P.O. Box 570, 3190 Orci Rd.",
+		"Email adresa: ": "Curabitur@luctus.com",
+		"Roditelj:": 0
+	},
+	{
+		"ID:": 100,
+		"Ime:": "Medge",
+		"Prezime:": "Wells",
+		"Broj telefona:": "709-1431",
+		"Adresa stanovanja:": "Ap #774-9688 Enim Road",
+		"Email adresa: ": "risus.varius@diamDuismi.edu",
+		"Roditelj:": 0
+    },
+    
+
+    
+        {
+            "ID:": 1,
+            "Ime:": "Barry",
+            "Prezime:": "Torres",
+            "Broj telefona:": "335-3975",
+            "Adresa stanovanja:": "916 Aliquet Av.",
+            "Email adresa: ": "diam@loremegetmollis.ca",
+            "Roditelj:": 80
+        },
+        {
+            "ID:": 2,
+            "Ime:": "Leilani",
+            "Prezime:": "Meadows",
+            "Broj telefona:": "1-172-431-2196",
+            "Adresa stanovanja:": "384-2137 Risus. Rd.",
+            "Email adresa: ": "accumsan.neque.et@Maecenasmi.com",
+            "Roditelj:": 71
+        },
+        {
+            "ID:": 3,
+            "Ime:": "Hope",
+            "Prezime:": "Weber",
+            "Broj telefona:": "450-0085",
+            "Adresa stanovanja:": "583 Ac Ave",
+            "Email adresa: ": "Aliquam@tortornibhsit.net",
+            "Roditelj:": 11
+        },
+        {
+            "ID:": 4,
+            "Ime:": "Petra",
+            "Prezime:": "Tran",
+            "Broj telefona:": "1-694-201-8755",
+            "Adresa stanovanja:": "Ap #323-8724 Eget Rd.",
+            "Email adresa: ": "eros.Proin@Vestibulumante.net",
+            "Roditelj:": 73
+        },
+        {
+            "ID:": 5,
+            "Ime:": "Doris",
+            "Prezime:": "Guthrie",
+            "Broj telefona:": "880-9419",
+            "Adresa stanovanja:": "P.O. Box 742, 4633 Malesuada Avenue",
+            "Email adresa: ": "tempus.lorem.fringilla@rutrum.net",
+            "Roditelj:": 86
+        },
+        {
+            "ID:": 6,
+            "Ime:": "Randall",
+            "Prezime:": "Odom",
+            "Broj telefona:": "240-0711",
+            "Adresa stanovanja:": "Ap #302-8492 Netus Rd.",
+            "Email adresa: ": "mauris@tortordictumeu.ca",
+            "Roditelj:": 6
+        },
+        {
+            "ID:": 7,
+            "Ime:": "Byron",
+            "Prezime:": "Frank",
+            "Broj telefona:": "519-7864",
+            "Adresa stanovanja:": "377-9798 Justo Avenue",
+            "Email adresa: ": "nonummy.ac.feugiat@consectetuer.ca",
+            "Roditelj:": 13
+        },
+        {
+            "ID:": 8,
+            "Ime:": "Kylie",
+            "Prezime:": "Tate",
+            "Broj telefona:": "1-865-745-4687",
+            "Adresa stanovanja:": "205-8561 Etiam Avenue",
+            "Email adresa: ": "mauris@infaucibus.co.uk",
+            "Roditelj:": 43
+        },
+        {
+            "ID:": 9,
+            "Ime:": "Janna",
+            "Prezime:": "Clayton",
+            "Broj telefona:": "1-905-985-0502",
+            "Adresa stanovanja:": "P.O. Box 649, 5118 Ut Avenue",
+            "Email adresa: ": "fringilla.est@Fuscedolor.com",
+            "Roditelj:": 13
+        },
+        {
+            "ID:": 10,
+            "Ime:": "Jada",
+            "Prezime:": "Bradford",
+            "Broj telefona:": "1-134-805-1586",
+            "Adresa stanovanja:": "376-3116 Nunc Av.",
+            "Email adresa: ": "Donec.fringilla.Donec@ut.org",
+            "Roditelj:": 27
+        },
+        {
+            "ID:": 11,
+            "Ime:": "Irene",
+            "Prezime:": "Battle",
+            "Broj telefona:": "1-274-652-7291",
+            "Adresa stanovanja:": "6705 Eget St.",
+            "Email adresa: ": "risus@ipsumprimisin.ca",
+            "Roditelj:": 42
+        },
+        {
+            "ID:": 12,
+            "Ime:": "Nora",
+            "Prezime:": "Duncan",
+            "Broj telefona:": "1-842-161-4484",
+            "Adresa stanovanja:": "P.O. Box 468, 7096 Dolor Ave",
+            "Email adresa: ": "magna.Suspendisse.tristique@volutpatNulladignissim.edu",
+            "Roditelj:": 98
+        },
+        {
+            "ID:": 13,
+            "Ime:": "Vladimir",
+            "Prezime:": "Petty",
+            "Broj telefona:": "104-1747",
+            "Adresa stanovanja:": "P.O. Box 289, 9909 Eu, Street",
+            "Email adresa: ": "vitae@maurisSuspendissealiquet.ca",
+            "Roditelj:": 49
+        },
+        {
+            "ID:": 14,
+            "Ime:": "Hyatt",
+            "Prezime:": "Melendez",
+            "Broj telefona:": "1-551-468-1058",
+            "Adresa stanovanja:": "957-8834 Fames Ave",
+            "Email adresa: ": "nascetur.ridiculus@nonummy.ca",
+            "Roditelj:": 90
+        },
+        {
+            "ID:": 15,
+            "Ime:": "Harrison",
+            "Prezime:": "Goodwin",
+            "Broj telefona:": "1-242-325-2616",
+            "Adresa stanovanja:": "P.O. Box 857, 9330 Enim. St.",
+            "Email adresa: ": "lacus.Aliquam.rutrum@leoCras.edu",
+            "Roditelj:": 78
+        },
+        {
+            "ID:": 16,
+            "Ime:": "Lionel",
+            "Prezime:": "Levy",
+            "Broj telefona:": "545-0132",
+            "Adresa stanovanja:": "P.O. Box 973, 2125 Elit. Street",
+            "Email adresa: ": "amet.metus.Aliquam@nisi.co.uk",
+            "Roditelj:": 62
+        },
+        {
+            "ID:": 17,
+            "Ime:": "Eve",
+            "Prezime:": "Haley",
+            "Broj telefona:": "1-969-691-4808",
+            "Adresa stanovanja:": "Ap #207-3349 Et Street",
+            "Email adresa: ": "sem.semper.erat@auguescelerisquemollis.edu",
+            "Roditelj:": 63
+        },
+        {
+            "ID:": 18,
+            "Ime:": "Alexandra",
+            "Prezime:": "Vincent",
+            "Broj telefona:": "393-8115",
+            "Adresa stanovanja:": "Ap #929-1649 Ante. Rd.",
+            "Email adresa: ": "dictum.Phasellus@Sednulla.edu",
+            "Roditelj:": 6
+        },
+        {
+            "ID:": 19,
+            "Ime:": "Dillon",
+            "Prezime:": "Sweeney",
+            "Broj telefona:": "1-532-552-1289",
+            "Adresa stanovanja:": "755-7716 Nec St.",
+            "Email adresa: ": "Integer@Duisrisus.org",
+            "Roditelj:": 44
+        },
+        {
+            "ID:": 20,
+            "Ime:": "Amela",
+            "Prezime:": "Raymond",
+            "Broj telefona:": "905-2311",
+            "Adresa stanovanja:": "P.O. Box 542, 8063 Molestie Av.",
+            "Email adresa: ": "feugiat.nec.diam@felisNulla.edu",
+            "Roditelj:": 40
+        },
+        {
+            "ID:": 21,
+            "Ime:": "Hop",
+            "Prezime:": "Morton",
+            "Broj telefona:": "425-2139",
+            "Adresa stanovanja:": "Ap #607-2736 Etiam Rd.",
+            "Email adresa: ": "netus.et@feugiat.co.uk",
+            "Roditelj:": 50
+        },
+        {
+            "ID:": 22,
+            "Ime:": "Palmer",
+            "Prezime:": "Buckner",
+            "Broj telefona:": "263-5984",
+            "Adresa stanovanja:": "6439 Nunc St.",
+            "Email adresa: ": "Maecenas.malesuada.fringilla@tempus.co.uk",
+            "Roditelj:": 74
+        },
+        {
+            "ID:": 23,
+            "Ime:": "Addison",
+            "Prezime:": "Delacruz",
+            "Broj telefona:": "1-293-310-6402",
+            "Adresa stanovanja:": "8147 Mauris Av.",
+            "Email adresa: ": "egestas.a@cursusIntegermollis.net",
+            "Roditelj:": 98
+        },
+        {
+            "ID:": 24,
+            "Ime:": "Brielle",
+            "Prezime:": "Wade",
+            "Broj telefona:": "731-3167",
+            "Adresa stanovanja:": "Ap #535-938 Sed St.",
+            "Email adresa: ": "tristique.senectus@sagittis.edu",
+            "Roditelj:": 1
+        },
+        {
+            "ID:": 25,
+            "Ime:": "Jack",
+            "Prezime:": "Pitts",
+            "Broj telefona:": "1-716-529-9778",
+            "Adresa stanovanja:": "P.O. Box 630, 3253 Natoque Avenue",
+            "Email adresa: ": "mi.Duis@atfringilla.co.uk",
+            "Roditelj:": 80
+        },
+        {
+            "ID:": 26,
+            "Ime:": "Audra",
+            "Prezime:": "Ratliff",
+            "Broj telefona:": "420-7705",
+            "Adresa stanovanja:": "1543 Urna. Rd.",
+            "Email adresa: ": "mattis@diamatpretium.com",
+            "Roditelj:": 92
+        },
+        {
+            "ID:": 27,
+            "Ime:": "Melyssa",
+            "Prezime:": "Nicholson",
+            "Broj telefona:": "742-7404",
+            "Adresa stanovanja:": "514-9091 Scelerisque Ave",
+            "Email adresa: ": "penatibus.et@loremvitaeodio.co.uk",
+            "Roditelj:": 95
+        },
+        {
+            "ID:": 28,
+            "Ime:": "Chester",
+            "Prezime:": "Allen",
+            "Broj telefona:": "1-240-633-1420",
+            "Adresa stanovanja:": "P.O. Box 157, 3344 Ipsum Rd.",
+            "Email adresa: ": "convallis.ligula.Donec@consequatdolor.com",
+            "Roditelj:": 78
+        },
+        {
+            "ID:": 29,
+            "Ime:": "Penelope",
+            "Prezime:": "Simmons",
+            "Broj telefona:": "1-732-909-2498",
+            "Adresa stanovanja:": "136-6992 Ac Rd.",
+            "Email adresa: ": "ante@dis.net",
+            "Roditelj:": 91
+        },
+        {
+            "ID:": 30,
+            "Ime:": "Baxter",
+            "Prezime:": "Olsen",
+            "Broj telefona:": "779-0733",
+            "Adresa stanovanja:": "305-2734 Amet Street",
+            "Email adresa: ": "dolor@lorem.edu",
+            "Roditelj:": 7
+        },
+        {
+            "ID:": 31,
+            "Ime:": "Carissa",
+            "Prezime:": "Levy",
+            "Broj telefona:": "1-994-999-1187",
+            "Adresa stanovanja:": "934-8999 Vestibulum Av.",
+            "Email adresa: ": "feugiat@sit.ca",
+            "Roditelj:": 7
+        },
+        {
+            "ID:": 32,
+            "Ime:": "Robin",
+            "Prezime:": "Middleton",
+            "Broj telefona:": "1-461-583-5890",
+            "Adresa stanovanja:": "428-997 Ullamcorper. Ave",
+            "Email adresa: ": "Etiam.laoreet@consectetuer.com",
+            "Roditelj:": 41
+        },
+        {
+            "ID:": 33,
+            "Ime:": "Keith",
+            "Prezime:": "Merrill",
+            "Broj telefona:": "1-686-921-4647",
+            "Adresa stanovanja:": "235-581 Lacus. St.",
+            "Email adresa: ": "pulvinar@lectusCumsociis.co.uk",
+            "Roditelj:": 24
+        },
+        {
+            "ID:": 34,
+            "Ime:": "Hollee",
+            "Prezime:": "Torres",
+            "Broj telefona:": "1-145-300-9550",
+            "Adresa stanovanja:": "Ap #960-789 Sapien. Ave",
+            "Email adresa: ": "neque@velitPellentesque.net",
+            "Roditelj:": 40
+        },
+        {
+            "ID:": 35,
+            "Ime:": "Dalton",
+            "Prezime:": "Vega",
+            "Broj telefona:": "432-9772",
+            "Adresa stanovanja:": "P.O. Box 964, 2398 Suspendisse St.",
+            "Email adresa: ": "hendrerit.id.ante@ornareplaceratorci.net",
+            "Roditelj:": 3
+        },
+        {
+            "ID:": 36,
+            "Ime:": "Cora",
+            "Prezime:": "Vance",
+            "Broj telefona:": "1-655-944-6891",
+            "Adresa stanovanja:": "9517 Netus Av.",
+            "Email adresa: ": "Phasellus.elit@massaIntegervitae.edu",
+            "Roditelj:": 65
+        },
+        {
+            "ID:": 37,
+            "Ime:": "Blaine",
+            "Prezime:": "Dudley",
+            "Broj telefona:": "1-956-284-6857",
+            "Adresa stanovanja:": "4545 In, Street",
+            "Email adresa: ": "nulla.Integer.vulputate@at.edu",
+            "Roditelj:": 23
+        },
+        {
+            "ID:": 38,
+            "Ime:": "Emmanuel",
+            "Prezime:": "Mooney",
+            "Broj telefona:": "1-567-381-0289",
+            "Adresa stanovanja:": "P.O. Box 317, 8821 Eu Rd.",
+            "Email adresa: ": "Fusce.dolor@lacuspede.ca",
+            "Roditelj:": 3
+        },
+        {
+            "ID:": 39,
+            "Ime:": "Brynne",
+            "Prezime:": "Torres",
+            "Broj telefona:": "870-0473",
+            "Adresa stanovanja:": "Ap #515-8771 Nisi. Avenue",
+            "Email adresa: ": "neque@Integerin.net",
+            "Roditelj:": 48
+        },
+        {
+            "ID:": 40,
+            "Ime:": "Diana",
+            "Prezime:": "Stewart",
+            "Broj telefona:": "572-7125",
+            "Adresa stanovanja:": "Ap #733-8633 Per Street",
+            "Email adresa: ": "nibh@eteuismodet.com",
+            "Roditelj:": 3
+        },
+        {
+            "ID:": 41,
+            "Ime:": "Vera",
+            "Prezime:": "Fernandez",
+            "Broj telefona:": "1-406-191-3641",
+            "Adresa stanovanja:": "Ap #723-9409 Augue Rd.",
+            "Email adresa: ": "Proin.vel.arcu@fermentumarcuVestibulum.co.uk",
+            "Roditelj:": 96
+        },
+        {
+            "ID:": 42,
+            "Ime:": "Pearl",
+            "Prezime:": "Thomas",
+            "Broj telefona:": "1-779-731-9812",
+            "Adresa stanovanja:": "P.O. Box 184, 7954 Duis Road",
+            "Email adresa: ": "venenatis.vel@facilisis.com",
+            "Roditelj:": 51
+        },
+        {
+            "ID:": 43,
+            "Ime:": "Kimberly",
+            "Prezime:": "Bonner",
+            "Broj telefona:": "1-889-158-6589",
+            "Adresa stanovanja:": "P.O. Box 301, 8260 Orci Av.",
+            "Email adresa: ": "augue@etnetuset.edu",
+            "Roditelj:": 66
+        },
+        {
+            "ID:": 44,
+            "Ime:": "Olivia",
+            "Prezime:": "Butler",
+            "Broj telefona:": "1-670-420-3255",
+            "Adresa stanovanja:": "548-4764 Enim Av.",
+            "Email adresa: ": "elementum.at@vitae.com",
+            "Roditelj:": 73
+        },
+        {
+            "ID:": 45,
+            "Ime:": "Raphael",
+            "Prezime:": "Sosa",
+            "Broj telefona:": "625-8281",
+            "Adresa stanovanja:": "3187 Consectetuer Rd.",
+            "Email adresa: ": "neque@Inmipede.net",
+            "Roditelj:": 8
+        },
+        {
+            "ID:": 46,
+            "Ime:": "Jesse",
+            "Prezime:": "Ochoa",
+            "Broj telefona:": "1-397-343-3344",
+            "Adresa stanovanja:": "Ap #776-3479 In Street",
+            "Email adresa: ": "a@nibhlaciniaorci.ca",
+            "Roditelj:": 41
+        },
+        {
+            "ID:": 47,
+            "Ime:": "Carson",
+            "Prezime:": "Buchanan",
+            "Broj telefona:": "778-1863",
+            "Adresa stanovanja:": "Ap #141-7491 Massa. Av.",
+            "Email adresa: ": "ipsum.cursus@tempor.ca",
+            "Roditelj:": 48
+        },
+        {
+            "ID:": 48,
+            "Ime:": "Jaden",
+            "Prezime:": "Hood",
+            "Broj telefona:": "385-9089",
+            "Adresa stanovanja:": "Ap #598-7499 Pellentesque Rd.",
+            "Email adresa: ": "magna.Nam@purusgravidasagittis.com",
+            "Roditelj:": 88
+        },
+        {
+            "ID:": 49,
+            "Ime:": "Kylan",
+            "Prezime:": "Macdonald",
+            "Broj telefona:": "1-608-353-5378",
+            "Adresa stanovanja:": "604-1007 Ut Rd.",
+            "Email adresa: ": "vitae.aliquet@purusin.org",
+            "Roditelj:": 24
+        },
+        {
+            "ID:": 50,
+            "Ime:": "Chastity",
+            "Prezime:": "Dixon",
+            "Broj telefona:": "794-0922",
+            "Adresa stanovanja:": "9844 Consequat, Street",
+            "Email adresa: ": "nunc.est@velitin.com",
+            "Roditelj:": 94
+        },
+        {
+            "ID:": 51,
+            "Ime:": "Constance",
+            "Prezime:": "Potter",
+            "Broj telefona:": "792-6278",
+            "Adresa stanovanja:": "P.O. Box 909, 9279 Neque Street",
+            "Email adresa: ": "In.mi@Inornare.org",
+            "Roditelj:": 76
+        },
+        {
+            "ID:": 52,
+            "Ime:": "Kim",
+            "Prezime:": "Pickett",
+            "Broj telefona:": "783-3874",
+            "Adresa stanovanja:": "Ap #247-4998 Non Av.",
+            "Email adresa: ": "non.vestibulum@Morbisit.org",
+            "Roditelj:": 38
+        },
+        {
+            "ID:": 53,
+            "Ime:": "Jelani",
+            "Prezime:": "Fernandez",
+            "Broj telefona:": "1-767-428-7141",
+            "Adresa stanovanja:": "Ap #819-694 Elit, Avenue",
+            "Email adresa: ": "et.magna.Praesent@aliquet.edu",
+            "Roditelj:": 99
+        },
+        {
+            "ID:": 54,
+            "Ime:": "Maisie",
+            "Prezime:": "Mathis",
+            "Broj telefona:": "1-667-721-8531",
+            "Adresa stanovanja:": "Ap #600-3623 Nunc Ave",
+            "Email adresa: ": "Sed.diam.lorem@purusac.org",
+            "Roditelj:": 65
+        },
+        {
+            "ID:": 55,
+            "Ime:": "Zenia",
+            "Prezime:": "Hanson",
+            "Broj telefona:": "939-9524",
+            "Adresa stanovanja:": "Ap #478-6809 Lobortis St.",
+            "Email adresa: ": "eleifend@rhoncus.net",
+            "Roditelj:": 73
+        },
+        {
+            "ID:": 56,
+            "Ime:": "Reece",
+            "Prezime:": "Rich",
+            "Broj telefona:": "1-186-623-4546",
+            "Adresa stanovanja:": "Ap #793-6303 Ultrices Avenue",
+            "Email adresa: ": "velit@cursusetmagna.co.uk",
+            "Roditelj:": 34
+        },
+        {
+            "ID:": 57,
+            "Ime:": "Bradley",
+            "Prezime:": "Knowles",
+            "Broj telefona:": "333-9815",
+            "Adresa stanovanja:": "Ap #154-7660 Sapien. St.",
+            "Email adresa: ": "taciti.sociosqu@Integer.edu",
+            "Roditelj:": 51
+        },
+        {
+            "ID:": 58,
+            "Ime:": "Leandra",
+            "Prezime:": "Patel",
+            "Broj telefona:": "656-2138",
+            "Adresa stanovanja:": "P.O. Box 894, 9697 Fringilla Rd.",
+            "Email adresa: ": "mattis.velit@Vivamus.co.uk",
+            "Roditelj:": 30
+        },
+        {
+            "ID:": 59,
+            "Ime:": "Karyn",
+            "Prezime:": "Pena",
+            "Broj telefona:": "122-8934",
+            "Adresa stanovanja:": "P.O. Box 463, 3619 Sem. Street",
+            "Email adresa: ": "enim.diam.vel@dapibusquamquis.org",
+            "Roditelj:": 68
+        },
+        {
+            "ID:": 60,
+            "Ime:": "Cora",
+            "Prezime:": "Kirby",
+            "Broj telefona:": "637-0444",
+            "Adresa stanovanja:": "P.O. Box 492, 1116 Sed Rd.",
+            "Email adresa: ": "scelerisque@lacusNulla.ca",
+            "Roditelj:": 55
+        },
+        {
+            "ID:": 61,
+            "Ime:": "Keegan",
+            "Prezime:": "Odonnell",
+            "Broj telefona:": "1-144-869-0100",
+            "Adresa stanovanja:": "499-2256 At Road",
+            "Email adresa: ": "nascetur.ridiculus@purusmauris.co.uk",
+            "Roditelj:": 90
+        },
+        {
+            "ID:": 62,
+            "Ime:": "Zelenia",
+            "Prezime:": "Bryant",
+            "Broj telefona:": "1-143-784-0885",
+            "Adresa stanovanja:": "Ap #819-5813 Quis Rd.",
+            "Email adresa: ": "Sed.nec.metus@et.ca",
+            "Roditelj:": 85
+        },
+        {
+            "ID:": 63,
+            "Ime:": "Darius",
+            "Prezime:": "Carson",
+            "Broj telefona:": "180-8279",
+            "Adresa stanovanja:": "5280 Inceptos Rd.",
+            "Email adresa: ": "porttitor.tellus.non@nuncnulla.com",
+            "Roditelj:": 44
+        },
+        {
+            "ID:": 64,
+            "Ime:": "Theodore",
+            "Prezime:": "Young",
+            "Broj telefona:": "1-867-277-5281",
+            "Adresa stanovanja:": "398-7817 Donec Rd.",
+            "Email adresa: ": "ipsum@egetipsumSuspendisse.net",
+            "Roditelj:": 78
+        },
+        {
+            "ID:": 65,
+            "Ime:": "Flynn",
+            "Prezime:": "Martin",
+            "Broj telefona:": "526-2934",
+            "Adresa stanovanja:": "P.O. Box 225, 9895 Amet Av.",
+            "Email adresa: ": "non.cursus@maurissapien.ca",
+            "Roditelj:": 2
+        },
+        {
+            "ID:": 66,
+            "Ime:": "Constance",
+            "Prezime:": "Fitzgerald",
+            "Broj telefona:": "1-767-442-9167",
+            "Adresa stanovanja:": "P.O. Box 811, 182 Non, St.",
+            "Email adresa: ": "gravida.nunc@vel.com",
+            "Roditelj:": 57
+        },
+        {
+            "ID:": 67,
+            "Ime:": "Ainsley",
+            "Prezime:": "Reyes",
+            "Broj telefona:": "656-0863",
+            "Adresa stanovanja:": "805-3557 Eget Ave",
+            "Email adresa: ": "ante.Vivamus.non@aliquet.ca",
+            "Roditelj:": 97
+        },
+        {
+            "ID:": 68,
+            "Ime:": "Benjamin",
+            "Prezime:": "Stewart",
+            "Broj telefona:": "1-812-730-6436",
+            "Adresa stanovanja:": "610-8363 A St.",
+            "Email adresa: ": "velit.Sed@loremloremluctus.ca",
+            "Roditelj:": 14
+        },
+        {
+            "ID:": 69,
+            "Ime:": "Ronan",
+            "Prezime:": "Hunt",
+            "Broj telefona:": "1-633-497-8091",
+            "Adresa stanovanja:": "P.O. Box 564, 4887 Montes, St.",
+            "Email adresa: ": "nunc.sit.amet@nullaante.com",
+            "Roditelj:": 4
+        },
+        {
+            "ID:": 70,
+            "Ime:": "Leonard",
+            "Prezime:": "Barnes",
+            "Broj telefona:": "615-0645",
+            "Adresa stanovanja:": "181-5734 Nec Road",
+            "Email adresa: ": "amet@utpharetrased.net",
+            "Roditelj:": 43
+        },
+        {
+            "ID:": 71,
+            "Ime:": "Melodie",
+            "Prezime:": "Baldwin",
+            "Broj telefona:": "1-837-966-3523",
+            "Adresa stanovanja:": "8093 Integer Rd.",
+            "Email adresa: ": "enim@semperegestasurna.co.uk",
+            "Roditelj:": 5
+        },
+        {
+            "ID:": 72,
+            "Ime:": "Nichole",
+            "Prezime:": "Gentry",
+            "Broj telefona:": "329-0388",
+            "Adresa stanovanja:": "Ap #891-7840 Eu St.",
+            "Email adresa: ": "fringilla.euismod.enim@erosnon.co.uk",
+            "Roditelj:": 47
+        },
+        {
+            "ID:": 73,
+            "Ime:": "Travis",
+            "Prezime:": "Hester",
+            "Broj telefona:": "1-186-834-7508",
+            "Adresa stanovanja:": "Ap #362-3030 Tellus, St.",
+            "Email adresa: ": "accumsan@ametconsectetuer.org",
+            "Roditelj:": 4
+        },
+        {
+            "ID:": 74,
+            "Ime:": "Tara",
+            "Prezime:": "Mayer",
+            "Broj telefona:": "457-8887",
+            "Adresa stanovanja:": "P.O. Box 756, 8017 Et Ave",
+            "Email adresa: ": "Nam.ac@consequat.com",
+            "Roditelj:": 92
+        },
+        {
+            "ID:": 75,
+            "Ime:": "Hayfa",
+            "Prezime:": "Lowery",
+            "Broj telefona:": "978-1209",
+            "Adresa stanovanja:": "Ap #689-2870 Semper Avenue",
+            "Email adresa: ": "litora.torquent@turpisegestas.org",
+            "Roditelj:": 71
+        },
+        {
+            "ID:": 76,
+            "Ime:": "Davis",
+            "Prezime:": "Lang",
+            "Broj telefona:": "1-121-393-9986",
+            "Adresa stanovanja:": "330-9656 Lobortis Avenue",
+            "Email adresa: ": "tellus.Aenean.egestas@Craseget.net",
+            "Roditelj:": 19
+        },
+        {
+            "ID:": 77,
+            "Ime:": "Odette",
+            "Prezime:": "Sweet",
+            "Broj telefona:": "1-454-115-8574",
+            "Adresa stanovanja:": "9280 Quisque Av.",
+            "Email adresa: ": "Proin.dolor@nislNullaeu.net",
+            "Roditelj:": 68
+        },
+        {
+            "ID:": 78,
+            "Ime:": "Amir",
+            "Prezime:": "Madden",
+            "Broj telefona:": "1-492-716-6651",
+            "Adresa stanovanja:": "P.O. Box 544, 7120 Aliquam Avenue",
+            "Email adresa: ": "lectus@ornare.edu",
+            "Roditelj:": 52
+        },
+        {
+            "ID:": 79,
+            "Ime:": "Georgia",
+            "Prezime:": "Durham",
+            "Broj telefona:": "1-416-347-2638",
+            "Adresa stanovanja:": "Ap #480-8701 Donec Ave",
+            "Email adresa: ": "interdum.Sed@nonegestas.net",
+            "Roditelj:": 70
+        },
+        {
+            "ID:": 80,
+            "Ime:": "Autumn",
+            "Prezime:": "Holder",
+            "Broj telefona:": "1-310-102-8589",
+            "Adresa stanovanja:": "P.O. Box 733, 2639 Tempor St.",
+            "Email adresa: ": "Vestibulum.ante.ipsum@Phasellusinfelis.com",
+            "Roditelj:": 58
+        },
+        {
+            "ID:": 81,
+            "Ime:": "Kenyon",
+            "Prezime:": "Jennings",
+            "Broj telefona:": "594-7161",
+            "Adresa stanovanja:": "P.O. Box 256, 4068 Ac, Rd.",
+            "Email adresa: ": "tristique.ac@egestasnunc.edu",
+            "Roditelj:": 75
+        },
+        {
+            "ID:": 82,
+            "Ime:": "Adara",
+            "Prezime:": "Stanton",
+            "Broj telefona:": "1-863-762-2775",
+            "Adresa stanovanja:": "P.O. Box 348, 8826 Egestas. Street",
+            "Email adresa: ": "sem.ut@In.ca",
+            "Roditelj:": 3
+        },
+        {
+            "ID:": 83,
+            "Ime:": "Amir",
+            "Prezime:": "Black",
+            "Broj telefona:": "373-0581",
+            "Adresa stanovanja:": "1008 Urna. Rd.",
+            "Email adresa: ": "volutpat.Nulla@dolorFusce.net",
+            "Roditelj:": 78
+        },
+        {
+            "ID:": 84,
+            "Ime:": "Leo",
+            "Prezime:": "Mills",
+            "Broj telefona:": "1-655-401-5203",
+            "Adresa stanovanja:": "8821 Eget Ave",
+            "Email adresa: ": "odio.auctor@luctus.org",
+            "Roditelj:": 99
+        },
+        {
+            "ID:": 85,
+            "Ime:": "Ali",
+            "Prezime:": "Ellis",
+            "Broj telefona:": "1-759-874-1522",
+            "Adresa stanovanja:": "1421 Facilisis Avenue",
+            "Email adresa: ": "Donec.est.Nunc@duiaugueeu.ca",
+            "Roditelj:": 69
+        },
+        {
+            "ID:": 86,
+            "Ime:": "Kasper",
+            "Prezime:": "Cotton",
+            "Broj telefona:": "238-5677",
+            "Adresa stanovanja:": "5319 Vel Ave",
+            "Email adresa: ": "sit.amet.consectetuer@enimnisl.com",
+            "Roditelj:": 71
+        },
+        {
+            "ID:": 87,
+            "Ime:": "Blythe",
+            "Prezime:": "Perkins",
+            "Broj telefona:": "248-6322",
+            "Adresa stanovanja:": "Ap #591-8688 Arcu. Street",
+            "Email adresa: ": "ipsum.dolor.sit@ascelerisque.net",
+            "Roditelj:": 99
+        },
+        {
+            "ID:": 88,
+            "Ime:": "Arthur",
+            "Prezime:": "Vaughn",
+            "Broj telefona:": "1-981-471-4549",
+            "Adresa stanovanja:": "960-7890 Diam Rd.",
+            "Email adresa: ": "eu.tellus.eu@maurissit.co.uk",
+            "Roditelj:": 41
+        },
+        {
+            "ID:": 89,
+            "Ime:": "Debra",
+            "Prezime:": "Stanton",
+            "Broj telefona:": "1-745-139-9699",
+            "Adresa stanovanja:": "Ap #597-6662 Ullamcorper Rd.",
+            "Email adresa: ": "Donec@Integer.edu",
+            "Roditelj:": 32
+        },
+        {
+            "ID:": 90,
+            "Ime:": "Timothy",
+            "Prezime:": "Mayer",
+            "Broj telefona:": "950-8009",
+            "Adresa stanovanja:": "229-7354 Vulputate Ave",
+            "Email adresa: ": "scelerisque.scelerisque@facilisisfacilisis.co.uk",
+            "Roditelj:": 49
+        },
+        {
+            "ID:": 91,
+            "Ime:": "Imogene",
+            "Prezime:": "Blevins",
+            "Broj telefona:": "996-8666",
+            "Adresa stanovanja:": "187-5466 Ligula Avenue",
+            "Email adresa: ": "mauris@Loremipsumdolor.net",
+            "Roditelj:": 4
+        },
+        {
+            "ID:": 92,
+            "Ime:": "Colin",
+            "Prezime:": "Holder",
+            "Broj telefona:": "1-915-624-7086",
+            "Adresa stanovanja:": "159-7068 Egestas Road",
+            "Email adresa: ": "hendrerit@quisdiamluctus.org",
+            "Roditelj:": 18
+        },
+        {
+            "ID:": 93,
+            "Ime:": "Martha",
+            "Prezime:": "Riley",
+            "Broj telefona:": "1-893-448-4652",
+            "Adresa stanovanja:": "Ap #432-9969 Mi Road",
+            "Email adresa: ": "tortor@a.net",
+            "Roditelj:": 85
+        },
+        {
+            "ID:": 94,
+            "Ime:": "Devin",
+            "Prezime:": "Holman",
+            "Broj telefona:": "634-6850",
+            "Adresa stanovanja:": "Ap #514-2720 A St.",
+            "Email adresa: ": "Sed.dictum@molestieorcitincidunt.edu",
+            "Roditelj:": 27
+        },
+        {
+            "ID:": 95,
+            "Ime:": "Upton",
+            "Prezime:": "Holt",
+            "Broj telefona:": "1-292-776-3536",
+            "Adresa stanovanja:": "Ap #497-5426 Ante Av.",
+            "Email adresa: ": "neque.In@habitantmorbitristique.edu",
+            "Roditelj:": 79
+        },
+        {
+            "ID:": 96,
+            "Ime:": "Quamar",
+            "Prezime:": "Buckley",
+            "Broj telefona:": "1-610-509-0203",
+            "Adresa stanovanja:": "883-7713 Ut St.",
+            "Email adresa: ": "Donec.dignissim@facilisislorem.com",
+            "Roditelj:": 33
+        },
+        {
+            "ID:": 97,
+            "Ime:": "Ciara",
+            "Prezime:": "Fischer",
+            "Broj telefona:": "239-7539",
+            "Adresa stanovanja:": "P.O. Box 694, 325 Sed St.",
+            "Email adresa: ": "per.conubia@Proinvel.org",
+            "Roditelj:": 10
+        },
+        {
+            "ID:": 98,
+            "Ime:": "Flavia",
+            "Prezime:": "Robertson",
+            "Broj telefona:": "1-493-735-6060",
+            "Adresa stanovanja:": "P.O. Box 118, 5987 Et Rd.",
+            "Email adresa: ": "Vivamus.rhoncus@asollicitudin.co.uk",
+            "Roditelj:": 27
+        },
+        {
+            "ID:": 99,
+            "Ime:": "Scott",
+            "Prezime:": "Gray",
+            "Broj telefona:": "276-8099",
+            "Adresa stanovanja:": "982-8652 Ultricies Rd.",
+            "Email adresa: ": "lorem.semper@utipsumac.net",
+            "Roditelj:": 32
+        },
+        {
+            "ID:": 100,
+            "Ime:": "Yuli",
+            "Prezime:": "Rios",
+            "Broj telefona:": "520-1081",
+            "Adresa stanovanja:": "4332 Elit, Rd.",
+            "Email adresa: ": "ac.sem@elementumat.ca",
+            "Roditelj:": 67
+        }
+    
+]
