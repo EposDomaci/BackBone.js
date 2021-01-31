@@ -1,5 +1,4 @@
- //u router-u bi trebalo da se poveze, 16:00 min.
- directoryData = [
+directoryData = [
 	{
 		"ID:": 1,
 		"Ime:": "Larissa",
